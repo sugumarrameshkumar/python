@@ -1,2 +1,5 @@
-print(2)
-print(3)
+a=1
+b=5
+print(a)
+
+print(b)
