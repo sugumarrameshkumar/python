@@ -14,5 +14,8 @@ AWS Replication and Version Lab in udemy
 6--bucket policy and user policy
 ----if 2 accounts there one account doesn't have any permission so adding inline policy in the user so they can view the  another user account bucket.
 <<<<<<<<<<<<<<<<<<<<it is useful if one user only wants to see particular bucket only>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+7-- S3 Event Notifications<<if anything added in bucket mail alert will come>>
+----create SNS topic add the policy and subscribe the topic and go to the bucket (if any action happens mail alert will come top your mail)and create 
+----event notification add event type and topic 
 
 
