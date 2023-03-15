@@ -1,0 +1,18 @@
+AWS S3==============15.03.2023
+solution architect associate labs
+AWS Replication and Version Lab in udemy
+1--Versioning and replication:<<<not done>>>
+----keeping multiple variants of objects in a bucket
+2--replication<<<not done>>>
+----creating new bucket in different region and add replication policy in old bucket if file added in old bucket also copy added in new bucket
+3--creating static website in s3
+----enable public and also disable block public access in s3
+4--presigned URL
+----create url with aws cli after installation type that command it will create an link with that link can be accessable for certain period of time default 1hr
+5--cross account access<<<not done>>>
+
+6--bucket policy and user policy
+----if 2 accounts there one account doesn't have any permission so adding inline policy in the user so they can view the  another user account bucket.
+<<<<<<<<<<<<<<<<<<<<it is useful if one user only wants to see particular bucket only>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
